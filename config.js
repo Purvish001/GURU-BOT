@@ -6,11 +6,11 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = [Purvish]
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
   [''] 
-] //Number of owners
+] //Number of owners +917893894160
 
 //global.pairingNumber = "" //put your bot number here
 
@@ -25,7 +25,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.APIs = { // API Prefix
+global.APIs = { // API Prefix.
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
