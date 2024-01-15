@@ -10,9 +10,9 @@ global.owner = [Purvish]
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
   [''] 
-] //Number of owners +917893894160
+[+7893894160] //Number of owners 
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "+917893894160" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -25,7 +25,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.APIs = { // API Prefix.
+global.APIs = {:} // API Prefix.
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
